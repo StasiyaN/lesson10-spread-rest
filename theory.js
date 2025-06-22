@@ -9,7 +9,7 @@ const allCities = [...citiesRussia, ...citiesEurope]
 console.log(allCities)
 
 //работа с объектами
-//sytnax [{...object}]
+//syntax {...object}
 // что происходит
 // с помощью {} мы создали новый объект и развернули все ключи
 const citiesRussiaWithPopulation = {
